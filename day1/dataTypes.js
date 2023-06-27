@@ -26,3 +26,29 @@
 // console.log(typeof true);
 
 
+//6. Declare four variables without assigning values
+// let birinch1;
+// let birinch2;
+// let birinch3;
+// let birinch4;
+
+//7. Declare four variables with assigned values
+// let birinch1 = "Azamat";
+// let birinch2 = 33;
+// let birinch3;
+// let birinch4 = null;
+
+//8. Declare variables to store your first name, last name, marital status, country and age in multiple lines
+// let lastName = "Akhmadov";
+// let maritalStatus = "uylangan";
+// let country = "Tashket";
+// let age = 28;
+
+//9. Declare variables to store your first name, last name, marital status, country and age in a single line
+// let name = "Azamat Akhmadov uylanganman Toshket  yoshim 28";
+
+let myAge = 28;
+let yourAge = 30;
+let allAge = "I am" + " " + " " + myAge + " " + "years old." + " " + "You are" + " " + yourAge + " " + "years old."
+console.log(allAge)
+
