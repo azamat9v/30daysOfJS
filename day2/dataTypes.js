@@ -101,5 +101,5 @@ let initial = "30 Days Of JavaScript"
 
 // console.log(initial.repeat(2)) //30 Days Of JavaScript30 Days Of JavaScript
 
-let NewTime = "The quote 'There is no exercise better for the heart than reaching down and lifting people up.' by John Holmes teaches us to help one another."
-console.log(NewTime)
+// let NewTime = "The quote 'There is no exercise better for the heart than reaching down and lifting people up.' by John Holmes teaches us to help one another."
+// console.log(NewTime)
